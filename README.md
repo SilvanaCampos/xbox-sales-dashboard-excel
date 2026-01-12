@@ -54,6 +54,24 @@ Ela foi organizada para ser **intuitiva, dinâmica e visualmente clara**, permit
 - **Paleta de cores Xbox** aplicada para reforçar identidade visual  
 
 ---
+# ▶️ Como Utilizar o Dashboard
+
+A aba **Dashboard** foi criada para ser totalmente interativa e fácil de usar.  
+Ao abrir o arquivo **Projeto_xbox.xlsx**, você pode:
+
+- **Visualizar os KPIs principais**: Receita Total, Nº de Assinantes e Ticket Médio.  
+- **Explorar os gráficos**:
+  - Receita por Plano → mostra a contribuição de cada plano (Ultimate, Standard, Core).  
+  - Receita por Tipo de Assinatura → compara mensal, anual e trimestral.  
+  - Receita Mensal → acompanha a evolução da receita ao longo dos meses.  
+  - Impacto dos Cupons → exibe o total de descontos aplicados.  
+
+- **Aplicar filtros (Slicers)**:
+  - Selecione por **Plano**, **Tipo de Assinatura** ou **Ano/Mês** para atualizar automaticamente todos os gráficos.
+- **Interatividade**: ao clicar em um filtro, todo o painel se ajusta para mostrar apenas os dados correspondentes.  
+
+👉 Dessa forma, você pode analisar diferentes cenários de vendas sem precisar manipular diretamente os dados brutos.
+
 ## 📷 Exemplo do Dashboard
 
 Abaixo uma visualização da aba **Dashboard** criada no Excel:
